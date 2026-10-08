@@ -1,0 +1,20 @@
+[
+    {
+        "id": "tools",
+        "children": [
+            {
+                "caption": "Terminal",
+                "id": "terminus",
+                "children": [
+                    {
+                        "caption": "Open Terminal View (Bottom)",
+                        "command": "toggle_terminus_panel",
+                        "args": {
+                            "cwd": "${folder}"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

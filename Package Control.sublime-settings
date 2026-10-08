@@ -1,0 +1,29 @@
+{
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlight",
+		"FileIcons",
+		"GitGutter",
+		"GitSavvy",
+		"Icon Fonts",
+		"Laravel Blade",
+		"LSP",
+		"LSP-intelephense",
+		"LSP-typescript",
+		"LSP-vue",
+		"Material Theme",
+		"Package Control",
+		"PackageSync",
+		"SideBarEnhancements",
+		"Terminus",
+		"Theme - Dark Material",
+		"Theme - Monokai+",
+		"Vue",
+	],
+	"in_process_packages":
+	[
+	],
+}

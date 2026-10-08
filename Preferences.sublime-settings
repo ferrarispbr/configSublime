@@ -1,0 +1,28 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+	"theme": "Dark-Material.sublime-theme",
+	"color_scheme": "Packages/Theme - Dark Material/schemes/Dark-Material.tmTheme",
+	"dark_color_scheme": "Mariana.sublime-color-scheme",
+	"light_color_scheme": "Mariana.sublime-color-scheme",
+	"file_icon_theme": "A File Icon.sublime-file-icons",
+	"highlight_line": true,
+	"line_padding_top": 3,
+	"line_padding_bottom": 1,
+	"indent_guide_options": ["draw_normal", "draw_active"],
+	"trim_trailing_white_space_on_save": "not_on_caret",
+	"caret_style": "smooth",
+	"highlight_modified_tabs": true,
+	"show_project_first": true,
+	"word_wrap": false,
+	"show_minimap": false,
+	"font_size": 11,
+	"translate_tabs_to_spaces": true,
+	"font_face": "Fira Code",
+	"show_encoding": true,
+	"show_line_endings": true,
+
+}
