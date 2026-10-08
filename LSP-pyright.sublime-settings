@@ -1,0 +1,10 @@
+// Settings in here override those in "LSP-pyright/LSP-pyright.sublime-settings"
+
+{
+    "settings": {
+        "python.defaultInterpreterPath": "C:\\Users\\z520563\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "python.analysis.autoSearchPaths": true,
+        "python.analysis.useLibraryCodeForTypes": true,
+        "python.analysis.diagnosticMode": "openFilesOnly"
+    }
+}

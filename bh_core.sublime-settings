@@ -1,0 +1,14 @@
+{
+    "bracket_styles": {
+        "default": {
+            "icon": "dot",
+            "color": "region.purplish",
+            "style": "underline"
+        },
+        "unmatched": {
+            "icon": "question",
+            "color": "region.redish",
+            "style": "outline"
+        }
+    }
+}

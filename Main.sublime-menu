@@ -14,6 +14,25 @@
                         }
                     }
                 ]
+            },
+            { "caption": "-" },
+            {
+                "caption": "Rodar Python (Terminus)",
+                "command": "terminus_open",
+                "args": {
+                    "cmd": ["cmd.exe", "/k", "C:\\Users\\z520563\\AppData\\Local\\Programs\\Python\\Python313\\python.exe", "$file"],
+                    "cwd": "${file_path}",
+                    "title": "Python Console",
+                    "panel_name": "Terminus",
+                    "auto_close": true
+                }
+            },
+            {
+                "caption": "Fechar Console Python",
+                "command": "hide_panel",
+                "args": {
+                    "panel": "output.Terminus"
+                }
             }
         ]
     }

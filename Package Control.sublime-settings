@@ -12,6 +12,7 @@
 		"Laravel Blade",
 		"LSP",
 		"LSP-intelephense",
+		"LSP-pyright",
 		"LSP-typescript",
 		"LSP-vue",
 		"Material Theme",
